@@ -26,8 +26,8 @@ Sou **Designer Gráfico** apaixonado por criatividade, comunicação visual e po
 ### 📊 As Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USUARIO&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleyalves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyalves&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
 </p>
 
 ---
@@ -36,4 +36,4 @@ Sou **Designer Gráfico** apaixonado por criatividade, comunicação visual e po
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teu-perfil)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/teu-perfil)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmai
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&log
